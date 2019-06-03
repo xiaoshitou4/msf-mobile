@@ -8,5 +8,7 @@ int main()
 	
 	printf("hello cxg\n");
 	
+	printf("hello feature2\n");
+	
 	return 1;
 }
